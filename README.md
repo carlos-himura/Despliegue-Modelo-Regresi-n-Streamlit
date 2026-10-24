@@ -1,1 +1,1 @@
-# Despliegue-Modelo-Regresi-n-Streamlit
+# Despliegue-Modelo-Regresion-Streamlit
